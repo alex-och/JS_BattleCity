@@ -1,0 +1,39 @@
+#field {
+    position: absolute;
+    width: 700px;
+    height: 500px;
+    background-color: black;
+}
+
+.x {
+    background-color: greenyellow;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    transform: rotate(0deg);
+}
+
+.x_inner {
+    background-color: rgb(211, 70, 230);
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 30px;
+    height: 30px;
+}
+
+.x_t {
+    background-color: rgb(211, 70, 230);
+    position: absolute;
+    top: 20px;
+    left: 0px;
+    width: 10px;
+    height: 10px;
+}
+
+.bullet {
+    background-color: white;
+    position: absolute;
+    width: 10px;
+    height: 10px;
+}
